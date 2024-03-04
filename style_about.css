@@ -1,0 +1,15 @@
+:root{
+    --bg-color:rgb(116, 198, 239);
+    --second-bg-color: rgba(20, 141, 223, 0.711);
+    --text-color: rgb(3, 60, 134);
+    --main-color:white;
+}
+
+body {
+    background: var(--bg-color);
+    color: var(--text-color);
+}
+section{
+    min-height: 50vh;
+    padding: 10rem 9% 2rem;
+}
